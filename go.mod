@@ -3,6 +3,7 @@ module github.com/shekhar-patil/go-blog
 go 1.24.4
 
 require (
+	github.com/badoux/checkmail v1.2.4
 	github.com/gorilla/mux v1.8.1
 	github.com/jinzhu/gorm v1.9.16
 	github.com/joho/godotenv v1.5.1
